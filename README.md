@@ -17,7 +17,7 @@ Solução de classificação e resposta automática para emails corporativos, us
 
 1. **Clone o repositório**
     ```
-    git clone https://github.com/seu-usuario/email-classifier-ia.git
+    git clone https://github.com/mateusheitor/email-classifier-ai.git
     cd email-classifier-ia
     ```
 
