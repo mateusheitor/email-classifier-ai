@@ -1,0 +1,15 @@
+De: Carlos Silva <carlos.silva@empresa.com>
+Para: suporte@financeira.com.br
+Assunto: Sistema de gestão financeira não está carregando
+
+Olá equipe de suporte,
+
+Desde ontem à tarde estou tentando acessar o sistema de gestão financeira, mas a página fica em branco após o login. Já tentei limpar o cache e usar outros navegadores, mas o problema persiste.
+
+Preciso urgentemente acessar os relatórios de fluxo de caixa para a reunião com a diretoria amanhã às 9h.
+
+Podem me ajudar a resolver isso hoje?
+
+Atenciosamente,
+Carlos Silva
+Gerente Financeiro
